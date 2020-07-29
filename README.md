@@ -10,35 +10,35 @@ Repositório destinado ao armazenamento de arquivos e códigos do curso disponí
 <ul>
     <li>
         <p>What is data science?</p>
-        <p><a href="coursera.org/verify/6VF7CYB8W49E">coursera.org/verify/6VF7CYB8W49E</a></p>
+        <p><a href="https://www.coursera.org/verify/6VF7CYB8W49E">coursera.org/verify/6VF7CYB8W49E</a></p>
     </li>
     <li>
         <p>Tools for Data Science</p>
-        <p><a href="coursera.org/verify/SR3KDX2H6ZAN">coursera.org/verify/SR3KDX2H6ZAN</a></p>
+        <p><a href="https://www.coursera.org/verify/SR3KDX2H6ZAN">coursera.org/verify/SR3KDX2H6ZAN</a></p>
     </li>
     <li>
         <p>Data Science Methodology</p>
-        <p><a href="coursera.org/verify/DPJWKQHVRKAV">coursera.org/verify/DPJWKQHVRKAV</a></p>
+        <p><a href="https://www.coursera.org/verify/DPJWKQHVRKAV">coursera.org/verify/DPJWKQHVRKAV</a></p>
     </li>
     <li>
         <p>Python for Data Science and AI</p>
-        <p><a href="coursera.org/verify/NHC492KJ5FTG">coursera.org/verify/NHC492KJ5FTG</a></p>
+        <p><a href="https://www.coursera.org/verify/NHC492KJ5FTG">coursera.org/verify/NHC492KJ5FTG</a></p>
     </li>
     <li>
         <p>Databases and SQL for Data Science</p>
-        <p><a href="coursera.org/verify/8VPXR6RXSFDW">coursera.org/verify/8VPXR6RXSFDW</a></p>
+        <p><a href="https://www.coursera.org/verify/8VPXR6RXSFDW">coursera.org/verify/8VPXR6RXSFDW</a></p>
     </li>
     <li>
         <p>Data Analysis with Python</p>
-        <p><a href="coursera.org/verify/X9ZNSB9KMAQV">coursera.org/verify/X9ZNSB9KMAQV</a></p>
+        <p><a href="https://www.coursera.org/verify/X9ZNSB9KMAQV">coursera.org/verify/X9ZNSB9KMAQV</a></p>
     </li>
     <li>
         <p>Data Visualization with Python</p>
-        <p><a href="coursera.org/verify/BMN9J7TJY9PV">coursera.org/verify/BMN9J7TJY9PV</a></p>
+        <p><a href="https://www.coursera.org/verify/BMN9J7TJY9PV">coursera.org/verify/BMN9J7TJY9PV</a></p>
     </li>
     <li>
         <p>Machine Learning with Pyhton</p>
-        <p><a href="coursera.org/verify/FQKWH5SPU34X">coursera.org/verify/FQKWH5SPU34X</a></p>
+        <p><a href="https://www.coursera.org/verify/FQKWH5SPU34X">coursera.org/verify/FQKWH5SPU34X</a></p>
     </li>
     <li>
         <p>Applied Data Science Capstone</p>
