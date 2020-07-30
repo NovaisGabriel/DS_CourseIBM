@@ -42,6 +42,10 @@ Repositório destinado ao armazenamento de arquivos e códigos do curso disponí
     </li>
     <li>
         <p>Applied Data Science Capstone</p>
-        <p><a href="#">progress...</a></p>
+        <p><a href="https://www.coursera.org/verify/ACFT4ZYJECY8">coursera.org/verify/ACFT4ZYJECY8</a></p>
+    </li>
+    <li>
+        <p>IBM Data Science Professional Certificate</p>
+        <p><a href="https://www.coursera.org/verify/professional-cert/GPBDABUHN8T8">coursera.org/verify/professional-cert/GPBDABUHN8T8</a></p>
     </li>
 </ul>
